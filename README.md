@@ -1,5 +1,5 @@
 # DA_T4_G62_First
-Desenhos de Algoritmos primeiro trabalho
+Algorithms project from FEUP'S UC DA
 
 Compiling:
     
